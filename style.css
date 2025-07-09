@@ -1,0 +1,29 @@
+body {
+
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+#point {
+
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+
+}
+
+#counter {
+
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
