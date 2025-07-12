@@ -15,6 +15,7 @@ body {
     border-radius: 50%;
     position: absolute;
     cursor: pointer;
+    filter: blur(2px);
 
 }
 
@@ -23,6 +24,16 @@ body {
     position: fixed;
     bottom: 10px;
     left: 10px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+#timer {
+
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
     font-size: 40px;
     font-weight: bold;
 
