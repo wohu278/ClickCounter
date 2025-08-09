@@ -1,9 +1,15 @@
 body {
 
-    margin: 0;
+    margin: 10;
     height: 100%;
     overflow: hidden;
     position: relative;
+
+}
+
+button {
+
+    cursor: pointer;
 
 }
 
